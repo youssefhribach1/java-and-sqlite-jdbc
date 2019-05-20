@@ -7,7 +7,7 @@ public class nested_for {
 
 		
 		for(int i=1;i<6;i++) {
-			System.out.println("*");
+			System.out.println("+");
 			for(int j=0;j<i;j++) {
 			 System.out.print(" ");
 			}

@@ -13,5 +13,6 @@ public class maths {
 		System.out.println("result is:"+result);
 		
 	}
+//	math priorities
 
 }

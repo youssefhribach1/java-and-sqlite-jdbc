@@ -6,11 +6,13 @@ public class convert_fromstring_to_int {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String phone="0684653644";
-		int number;
+		String phone="5.5";
+		Double number=55.5;
 		/* to convert from string to INTEGER using Integer.pârseInt*/
-		number=Integer.parseInt(phone);
-		System.out.println("you'r number is:"+number);
+		/*number=Double.parseDouble(phone);*/
+		
+		phone=String.valueOf(number);
+		System.out.println("you'r number is:"+phone);
 		
 
 	}

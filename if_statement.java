@@ -1,5 +1,6 @@
 package projet1;
 import java.util.Scanner;
+
 public class if_statement {
   static Scanner reader=new Scanner(System.in);
 	public static void main(String[] args) {
